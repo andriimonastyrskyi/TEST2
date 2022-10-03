@@ -476,11 +476,6 @@ body {
   color: var(--footer-color);
 }
 
-.social-list-footer:hover,
-.social-list-footer:focus {
-  background-color: var(--accent-text);
-}
-
 .social-list-footer {
   display: flex;
   justify-content: center;
@@ -494,7 +489,7 @@ body {
   border-radius: 50%;
   width: 44px;
   height: 44px;
-  color: var(--social-color);
+  color: var(--footer-color);
 }
 
 .social-link-footer:hover,
